@@ -12,6 +12,7 @@ Bookmark: Bookmark user post locally by using share preferences
 Profile: Display user profile
 
 ## Videos
+# Click on the video to watch the app functions
 
 https://github.com/user-attachments/assets/67bc02b8-edf8-432c-a133-5d09313abdbc
 
