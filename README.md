@@ -1,16 +1,81 @@
-# post
+# A Simple Rest Api Integration Example App
 
-A new Flutter project.
+
+This Flutter Posts app provides solid foundation of a rest api integration which include the listing of all the post and comments of a particular post and handling of bookmark locally.
+The UI design is consistent to ensuring a seamless user experience.
+
+
+## Features
+Post Listing: Getting user post from the Api
+Comments Screen: Displaying the User comments on a post
+Bookmark: Bookmark user post locally by using share preferences
+Profile: Display user profile
+
+## Videos
+
+https://github.com/user-attachments/assets/2f2c96bd-08ed-453d-af29-b8f0a4e50a36
+
+
+## Prerequisites
+- [FlutterSDK](https://flutter.dev/docs/get-started/install)
+- [Android Studio](https://developer.android.com/studio) or [Visual Studio](https://visualstudio.microsoft.com/) with Flutter and Dart plugins
+
+## Dependencies
+This Todo app uses the following dependencies to provide essential functionalities and ensure a smooth development experience:
+
+
+### Core Dependencies
+
+1.. Flutter_riverpod: ^2.6.1
+An advanced state management library that is an improvement over the original Provider package, offering better performance and flexibility.
+
+2. SharePreferences: ^2.2.2
+A local storage to store and manage app data across the application. making it easy to access save data  from anywhere in the code.
+
+3. Dio: ^5.9.0
+   Dio is use to get the data from the Api url and endpoints
 
 ## Getting Started
+### 1. Clone the Repository
+bash
+```Copy code
+git clone https://github.com/Phillip4reall/PostApi.git
+```
 
-This project is a starting point for a Flutter application.
+### 2. Install Dependencies
+Run the following command to install the necessary packages:
+bash
+```Copy code
+flutter pub get
+```
 
-A few resources to get you started if this is your first Flutter project:
+### 4. Run the Application
+To start the application on an emulator or a connected device, run:
+bash
+```Copy code
+flutter run
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 5. Building for Release
+For Android:
+bash
+```Copy code
+flutter build apk --release
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For iOS:
+```bash
+
+flutter build ios --release
+```
+
+## Project Structure
+
+         
+
+
+
+
+
+
+
