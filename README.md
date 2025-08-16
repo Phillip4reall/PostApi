@@ -9,7 +9,9 @@ The UI design is consistent to ensuring a seamless user experience.
 Post Listing: Getting user post from the Api.
 
 Comments Screen: Displaying the User comments on a post.
+
 Bookmark: Bookmark user post locally by using share preferences.
+
 Profile: Display user profile.
 
 ## Videos
