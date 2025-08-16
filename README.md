@@ -13,7 +13,7 @@ Profile: Display user profile
 
 ## Videos
 
-https://github.com/user-attachments/assets/2f2c96bd-08ed-453d-af29-b8f0a4e50a36
+https://github.com/user-attachments/assets/67bc02b8-edf8-432c-a133-5d09313abdbc
 
 
 ## Prerequisites
